@@ -17,18 +17,24 @@ https://are-you-real-or-fake-news.herokuapp.com/
 
 ## Data Sources:
 Fake and real news dataset – Kaggle.com
+
 https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv
 
 
 Github repo with headlines from r/nottheonion and theonion.com
+
 https://github.com/lukefeilberg/onion/blob/master/OnionOrNot
 
 
 ## Technologies used:
 Logistic Regression
+
 Python Pandas
+
 HTML/CSS/Bootstrap
+
 Tableau
+
 Hosting application using Heroku tool. 
 
 
