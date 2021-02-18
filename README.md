@@ -2,7 +2,9 @@
 
 Group: 
 Sherry Javed
+
 Christy Wang
+
 Matthew Belevski
 
 ## Proposal of Project:
